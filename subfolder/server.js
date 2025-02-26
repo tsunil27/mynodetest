@@ -9,6 +9,6 @@ app.get("/", (req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`Server is upp on http://localhost:${PORT}`);
+  console.log(`Server is upppp on http://localhost:${PORT}`);
 });
 
